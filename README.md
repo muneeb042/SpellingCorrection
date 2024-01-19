@@ -5,6 +5,7 @@ between original tokens and their corrected counterparts. If there is no correct
 a token, it's printed as default.
 
 # Key Features:
-1. Spell Correction with SpellChecker
-2. Token Alignment
-3. Input and Output Handling
+1. Tokenizes the input File.
+2. Spell Correction with SpellChecker
+3. Token Alignment
+4. Input and Output Handling
